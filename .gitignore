@@ -1,1 +1,4 @@
 .DS_Store
+PyCharmProjects/venv
+CLionProjects/LambdaExp/cmake-build-debug
+CLionProjects/CMacros/cmake-build-debug
